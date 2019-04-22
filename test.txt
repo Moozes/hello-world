@@ -1,1 +1,2 @@
-this is a new texte file
+this is not a new text file 
+do you understand
